@@ -1,7 +1,7 @@
 # Prompt Builder
 
-An HKDSE prompt-coach app for SKH Holy Carpenter Secondary School.
+This host now redirects to DSE Smart:
 
-Live: https://skhhcss-eng.github.io/prompt-builder/
+https://skhhcss-eng.github.io/dse-smart/
 
-The English subject site links out to this host. This app is not part of the official english LMS pack.
+The English subject site also links to DSE Smart. This redirect host is not part of the official english LMS pack.
